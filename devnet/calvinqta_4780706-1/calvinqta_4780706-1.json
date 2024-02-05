@@ -1,0 +1,35 @@
+{
+  "chainId": "calvinqta_4780706-1",
+  "chainName": "calvinqta_4780706-1",
+  "rpc": "http://37.60.225.92:26657",
+  "rest": "http://37.60.225.92:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CLV",
+      "baseDenom": "uCLV",
+      "decimals": 18,
+      "logo": "/logos/calvinqta_4780706-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/calvinqta_4780706-1.png",
+  "ibc": {
+    "hubChannel": "channel-9356",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x48f2a2",
+    "rpc": "http://37.60.225.92:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "member avail",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CAgFZT7Yib6CGvTiksvDRdD85h1AKBF1M5UkrCth2q7hm8v"
+}
