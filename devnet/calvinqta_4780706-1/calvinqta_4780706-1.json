@@ -1,8 +1,8 @@
 {
   "chainId": "calvinqta_4780706-1",
   "chainName": "calvinqta_4780706-1",
-  "rpc": "http://37.60.225.92:26657",
-  "rest": "http://37.60.225.92:1317",
+  "rpc": "https://rpc.calvin-avail.space",
+  "rest": "https://rest.calvin-avail.space",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x48f2a2",
-    "rpc": "http://37.60.225.92:8545"
+    "rpc": "http://rpc.calvin-avail.space"
   },
   "type": "RollApp",
   "da": "Avail",
